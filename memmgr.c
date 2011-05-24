@@ -1,4 +1,4 @@
-/* Copyright (C) 2002 Jimmy Selgen Nielsen (nielsenj(at)mail.tele.dk). All Rights Reserved. */
+/* Copyright (C) 2002 Jimmy Selgen Nielsen (jimmy.selgen@gmail.com). All Rights Reserved. */
 /*
 *File: memmgr.c, memmgr.h
 *Desc: Memory manager that runs on a small (unsigned 16 bit value) character array
@@ -18,6 +18,7 @@
  You should have received a copy of the GNU General Public License
  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "memmgr.h"
